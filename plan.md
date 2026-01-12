@@ -51,6 +51,8 @@
 - cosine error by the radar
 - night conditions for the camera
 
-## alternative approach
+## public shaming approach
 
-- broadcast all data wirelessly to simplify policemen work and promote public shaming
+- broadcast all speeding videos via mobile network or ethernet to a publicly accessible
+  file server
+- have a map and statistics on speeding
